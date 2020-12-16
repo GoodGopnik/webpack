@@ -5,5 +5,5 @@ import '../style/style'
 import '../scss/styleshet.scss'
 
 console.log(data)
-console.log("hello!!!")
+console.log("hello!!!!!!")
 suumma(5, 15)
